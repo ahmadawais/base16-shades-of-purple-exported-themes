@@ -1,0 +1,23 @@
+[Shades of Purple]
+text=c7c7c7
+text(bold)=c7c7c7
+background=1e1e3f
+black=1e1e3f
+black(bold)=808080
+red=d90429
+red(bold)=f92a1c
+green=3ad900
+green(bold)=43d426
+yellow=ffe700
+yellow(bold)=f1d000
+blue=6943ff
+blue(bold)=6871ff
+magenta=ff2c70
+magenta(bold)=ff77ff
+cyan=00c5c7
+cyan(bold)=79e8fb
+white=c7c7c7
+white(bold)=ffffff
+[Names]
+name0=Shades of Purple
+count=1

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Shades of Purple by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1e1e3f"
+idle_fg = "#c7c7c7"
+info_bg = "#00c5c7"
+info_fg = "#1e1e3f"
+good_bg = "#3ad900"
+good_fg = "#1e1e3f"
+warning_bg = "#ffe700"
+warning_fg = "#1e1e3f"
+critical_bg = "#d90429"
+critical_fg = "#1e1e3f"
+# The rest of the theme settings are left at default.

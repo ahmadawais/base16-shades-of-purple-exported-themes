@@ -1,0 +1,6 @@
+# Base16 Shades of Purple for gtk2 (https://github.com/dawikur/base16-gtk2)
+# By Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+# shades-of-purple (https://github.com/dawikur/base16-gruvbox-scheme)
+
+gtk-color-scheme = "bg_color:#1e1e3f\nfg_color:#c7c7c7\nbase_color:#1e1e3f\ntext_color:#c7c7c7\nselected_bg_color:#f1d000\nselected_fg_color:#c7c7c7\ntooltip_bg_color:#1e1e3f\ntooltip_fg_color:#6871ff\ntitlebar_bg_color:#1e1e3f\ntitlebar_fg_color:#6943ff\nmenubar_bg_color:#1e1e3f\nmenubar_fg_color:#6943ff\ntoolbar_bg_color:#1e1e3f\ntoolbar_fg_color:#ffe700\nmenu_bg_color:#1e1e3f\nmenu_fg_color:#c7c7c7\npanel_bg_color:#1e1e3f\npanel_fg_color:#3ad900\nlink_color:#f92a1c"
+

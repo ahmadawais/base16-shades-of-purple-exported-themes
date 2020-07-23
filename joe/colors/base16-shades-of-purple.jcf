@@ -1,0 +1,61 @@
+
+# base16 Shades of Purple by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+
+.colors *
+
+-text		$c7c7c7/$1e1e3f
+-status		$6871ff/$f1d000
+-cursor		$1e1e3f/$c7c7c7
+-selection	/$f1d000
+-curlin		/$43d426
+-linum		$808080/$43d426
+-curlinum	$6871ff/$43d426
+-menusel	$43d426/$6871ff
+
+-term 0 	$1e1e3f
+-term 1 	$6943ff
+-term 2 	$3ad900
+-term 3 	$00c5c7
+-term 4 	$f92a1c
+-term 5 	$ff2c70
+-term 6 	$ffe700
+-term 7 	$6871ff
+-term 8 	$808080
+-term 9 	$6943ff
+-term 10	$3ad900
+-term 11	$00c5c7
+-term 12	$d90429
+-term 13	$79e8fb
+-term 14	$ffe700
+-term 15	$ffffff
+
+=Constant	$f92a1c
+=String		$3ad900
+=Escape		$00c5c7
+
+=Comment	$808080
+=StorageClass	+Type
+=Keyword	$ff2c70
+=Conditional	$ff2c70
+=Operator	$c7c7c7
+=Loop		$ffe700
+=Statement	$d90429
+=Type		$ffe700
+
+=DefinedIdent	$d90429
+=Label		$ffe700
+=DefinedType	$ffe700
+=Structure	$ff2c70
+
+=Preproc	$ffe700
+=Include	$6943ff
+=Define		$ff2c70
+=TODO		$ffe700/$43d426
+=Precond	$ff2c70
+
+=diff.AddLine	$3ad900/$43d426
+=diff.ChgLine	$808080/$43d426
+=diff.DelLine	$d90429/$43d426
+=diff.File	$d90429
+=diff.FileNew	$3ad900
+=diff.Hunk	$6943ff
